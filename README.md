@@ -1,11 +1,11 @@
 # mvideo-hack
 
-Create virtualenv with python3.5
+Create virtualenv with python3.5 `virtualenv -p python35 env/`
 
-`pip install -r requirements.txt`
+Activate env `source env/bin/activate`
 
-Start jupyter notebook
+Install packages `pip install -r requirements.txt`
 
-`jupyter-notebook`
+Start jupyter notebook `jupyter-notebook`
 
 Goto browser and run cells!
