@@ -9,3 +9,4 @@ keras-tqdm==2.0.1
 nltk==3.2.2
 h5py==2.7.0
 jupyter
+tensorflow
